@@ -256,4 +256,4 @@ Python Project | Smart File Organizer & Automation Tool
 
 ---
 
-*This project was developed as part of a Python programming assignment to demonstrate Object-Oriented Programming, file handling, automation, logging, exception handling, and practical problem-solving.*
+**Smart File Organizer & Automation Tool** is a Python-based application designed to simplify file management through automated organization, duplicate filename handling, preview mode, activity logging, and summary reporting.
