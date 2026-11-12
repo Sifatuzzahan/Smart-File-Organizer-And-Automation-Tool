@@ -1,0 +1,38 @@
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log Files
+*.log
+logs/*.log
+
+# Generated Summary Reports
+reports/*.txt
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Local Testing Folders
+Empty-Test-Files/
+Preview-Test-Files/
+Organizer-Test-Files/
+
+# Unexpected Local Folder
+/script.py/
